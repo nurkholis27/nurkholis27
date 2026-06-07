@@ -188,6 +188,6 @@ Weakness:
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff0000,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:7a0000,100:ff0000&text=KHOLIS&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38"/>
 
 </div>
