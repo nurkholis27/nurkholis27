@@ -1,78 +1,193 @@
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                         KHOLIS · TECHNICAL RESEARCH SYSTEMS                                      ║
-║                                      "Data is data. Analysis is analysis. Documentation is absolute."            ║
-╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
--->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/kholis">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=500&color=00F0A8&center=true&vCenter=true&width=700&height=80&lines=KHOLIS;TECHNICAL+RESEARCHER;SYSTEMS+ANALYST;AUTOMATION+ENGINEER" alt="Typing Header" />
-  </a>
-</p>
+# ☠️ 呪術廻戦 CHARACTER PROFILE ☠️
+# ⚔️ RYOIKI TENKAI • FUKUMA MIZUSHI ⚔️
 
-<!-- YOKOSO SAKASAMA SEKAI - Welcome to the Inverted World -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=800&color=FFB800&center=true&vCenter=true&width=700&lines=YOKOSO+SAKASAMA+SEKAI;ようこそ+逆さま+世界;WELCOME+TO+THE+INVERTED+WORLD" alt="Yokoso Sakasama Sekai" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:7a0000,100:ff0000&text=KHOLIS&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <code>═══════════════════════════════════════════════════════════════════</code>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=SPECIAL+GRADE+SORCERER;DOMAIN+EXPANSION+USER;FUKUMA+MIZUSHI;CURSED+TECHNIQUE+%3A+CODING" />
 
-<pre align="center">
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                                                                             │
-│     ██╗   ██╗ ██████╗ ██╗  ██╗ ██████╗ ███████╗ ██████╗                     │
-│     ╚██╗ ██╔╝██╔═══██╗██║ ██╔╝██╔═══██╗██╔════╝██╔═══██╗                    │
-│      ╚████╔╝ ██║   ██║█████╔╝ ██║   ██║███████╗██║   ██║                    │
-│       ╚██╔╝  ██║   ██║██╔═██╗ ██║   ██║╚════██║██║   ██║                    │
-│        ██║   ╚██████╔╝██║  ██╗╚██████╔╝███████║╚██████╔╝                    │
-│        ╚═╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝                     │
-│                                                                             │
-│                      S A K A S A M A   S E K A I                            │
-│                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~                             │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
-</pre>
+</div>
 
-<p align="center">
-  <code>🐍  I N V E R T E D   W O R L D   M O D E :   A C T I V E  🐍</code>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/YOKOSO-00F0A8?style=for-the-badge&logo=anime&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAKASAMA-FFB800?style=for-the-badge&logo=anime&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEKAI-FF3366?style=for-the-badge&logo=anime&logoColor=white" />
-</p>
+# 📖 CHARACTER DATA
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kholis&label=PROFILE+VIEWS&color=00F0A8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/kholis?label=FOLLOWERS&style=flat-square&color=00F0A8" />
-  <img src="https://img.shields.io/github/stars/kholis?label=STARS&style=flat-square&color=FFB800" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00F0A8?style=flat-square" />
-</p>
+```yaml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<hr />
+NAME          : KHOLIS
+ALIAS         : The Cursed Developer
+AFFILIATION   : Open Source
+GRADE         : SPECIAL GRADE
 
-## 🎯 PROFILE OVERVIEW
+STATUS        : ACTIVE
 
-```json
-{
-  "identity": {
-    "name": "Kholis",
-    "alias": "YTTA",
-    "greeting": "YOKOSO SAKASAMA SEKAI",
-    "role": "Technical Researcher",
-    "domain": "Systems Analysis & Automation"
-  },
-  "expertise": [
-    "System Architecture",
-    "Automation Engineering",
-    "Security Research",
-    "Technical Documentation"
-  ],
-  "philosophy": "Data is data. Analysis is analysis.",
-  "world": "inverted",
-  "status": "operational"
-}
+CURSED TOOL   : Keyboard
+WEAPON        : Source Code
+
+DOMAIN        : FUKUMA MIZUSHI
+ENERGY TYPE   : CURSED ENERGY
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🩸 STATUS WINDOW
+
+```text
+HP             ██████████████ 100%
+STAMINA        ██████████████ 100%
+INTELLIGENCE   ██████████████ 100%
+CREATIVITY     █████████████░ 95%
+DISCIPLINE     █████████████░ 95%
+LUCK           ████████████░░ 90%
+```
+
+---
+
+# ⚔️ CURSED TECHNIQUES
+
+```diff
++ Software Development
++ Lua Programming
++ Automation Systems
++ Bot Development
++ UI Design
++ Open Source Projects
+```
+
+---
+
+# 🎴 CHARACTER ATTRIBUTES
+
+| Attribute | Rank |
+|-----------|------|
+| ⚔️ Strength | S |
+| ⚡ Speed | S |
+| 🧠 Intelligence | SS |
+| 🔥 Coding | SS+ |
+| 🎯 Accuracy | S |
+| 👁️ Analysis | SS |
+| ☠️ Curse Energy | MAX |
+
+---
+
+# 🏯 DOMAIN EXPANSION
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════╗
+║                                        ║
+║          伏 魔 御 厨 子                  ║
+║                                        ║
+║          FUKUMA MIZUSHI                ║
+║                                        ║
+║  Within this domain every line of      ║
+║  code becomes absolute.                ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 📊 COMBAT RECORD
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurkholis27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurkholis27&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nurkholis27&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# ⚡ CURSED TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,python,javascript,nodejs,html,css,git,github,vscode,bash"/>
+
+</div>
+
+---
+
+# 📈 BATTLE HISTORY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurkholis27&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ☠️ SPECIAL GRADE ANALYSIS
+
+```yaml
+Threat Level:
+  Humanity: Safe
+  Bugs: Extreme Danger
+  Deadlines: Severe Threat
+
+Abilities:
+  - Infinite Learning
+  - Rapid Adaptation
+  - Domain Expansion
+  - Debugging Instinct
+
+Weakness:
+  - Lack of Sleep
+```
+
+---
+
+# 🎭 CHARACTER QUOTE
+
+<div align="center">
+
+## 「 Throughout Heaven and Earth, I Alone Am The Coding One. 」
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+██╗  ██╗██╗  ██╗ ██████╗ ██╗     ██╗███████╗
+██║ ██╔╝██║  ██║██╔═══██╗██║     ██║██╔════╝
+█████╔╝ ███████║██║   ██║██║     ██║███████╗
+██╔═██╗ ██╔══██║██║   ██║██║     ██║╚════██║
+██║  ██╗██║  ██║╚██████╔╝███████╗██║███████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝╚══════╝
+
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ GRADE      : SPECIAL GRADE           ┃
+┃ STATUS     : ACTIVE                  ┃
+┃ DOMAIN     : FUKUMA MIZUSHI          ┃
+┃ ENERGY     : MAXIMUM OUTPUT          ┃
+┃ TECHNIQUE  : CODING                  ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃      RYOIKI TENKAI ACTIVATED         ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff0000,100:000000"/>
+
+</div>
