@@ -101,7 +101,7 @@ LUCK           ████████████░░ 90%
 
 <img width="49%" src="https://raw.githubusercontent.com/nurkholis27/Gambar/refs/heads/main/IMG_5728.png"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurkholis27&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://raw.githubusercontent.com/nurkholis27/Gambar/refs/heads/main/15FAA282-3724-45A8-B1EA-F162024361B6.png"/>
 
 </div>
 
