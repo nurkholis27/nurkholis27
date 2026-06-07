@@ -161,7 +161,7 @@ Weakness:
 
 <div align="center">
 
-## 「 Bahkan bintang yang paling terang pun suatu hari akan kehilangan cahayanya. 」
+## 「Bahkan bintang yang paling terang pun suatu hari akan kehilangan cahayanya.」
 
 </div>
 
