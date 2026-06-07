@@ -99,7 +99,7 @@ LUCK           ████████████░░ 90%
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nurkholis27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://raw.githubusercontent.com/nurkholis27/Gambar/refs/heads/main/IMG_5728.png"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nurkholis27&theme=tokyonight&hide_border=true"/>
 
