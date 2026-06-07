@@ -161,7 +161,7 @@ Weakness:
 
 <div align="center">
 
-## 「 Throughout Heaven and Earth, I Alone Am The Coding One. 」
+## 「 Bahkan bintang yang paling terang pun suatu hari akan kehilangan cahayanya. 」
 
 </div>
 
