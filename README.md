@@ -81,12 +81,12 @@ LUCK           ████████████░░ 90%
 ```text
 ╔════════════════════════════════════════╗
 ║                                        ║
-║          伏 魔 御 厨 子                  ║
+║             伏 魔 御 厨 子               ║
 ║                                        ║
-║          FUKUMA MIZUSHI                ║
+║            FUKUMA MIZUSHI              ║
 ║                                        ║
-║  Within this domain every line of      ║
-║  code becomes absolute.                ║
+║    Within this domain every line of    ║
+║         code becomes absolute.         ║
 ║                                        ║
 ╚════════════════════════════════════════╝
 ```
@@ -111,7 +111,7 @@ LUCK           ████████████░░ 90%
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nurkholis27&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/nurkholis27/Gambar/refs/heads/main/3C871085-CE98-47D5-9922-C63D8BA255A1.png"/>
 
 </div>
 
